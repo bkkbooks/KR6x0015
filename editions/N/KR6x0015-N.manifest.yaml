@@ -1,0 +1,416 @@
+canonical_identifier: bkk:krp/KR6x0015/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0015/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長老偈經
+  identifiers:
+    krp: KR6x0015
+    cbeta: N28n0015
+    cbeta_old_id: N28n0015
+    authorityid: CA0008279
+    json_key: N0015
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N28/N28n0015.xml
+    old_id: N28n0015
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0015_001-N.yaml, hash: 'sha256:679d5d2aca5366600a008eb2acdc8f8eee53e1b368b1968c8641658a2a5d7fb7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0015_001-N.markers.yaml, hash: 'sha256:cadb4515abfa336cd627f7cd83080995828d2a81e7443a99173531d0fae0f495'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 34525
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-2
+    span:
+    - body
+    - 78
+    - 78
+  label: 第一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-3
+    span:
+    - body
+    - 522
+    - 522
+  label: 第二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-4
+    span:
+    - body
+    - 907
+    - 907
+  label: 第三品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-5
+    span:
+    - body
+    - 1270
+    - 1270
+  label: 第四品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-6
+    span:
+    - body
+    - 1661
+    - 1661
+  label: 第五品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-7
+    span:
+    - body
+    - 2063
+    - 2063
+  label: 第六品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-8
+    span:
+    - body
+    - 2456
+    - 2456
+  label: 第七品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-9
+    span:
+    - body
+    - 2846
+    - 2846
+  label: 第八品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-10
+    span:
+    - body
+    - 3200
+    - 3200
+  label: 第九品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-11
+    span:
+    - body
+    - 3553
+    - 3553
+  label: 第十品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-12
+    span:
+    - body
+    - 3959
+    - 3959
+  label: 第十一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-13
+    span:
+    - body
+    - 4330
+    - 4330
+  label: 第十二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-14
+    span:
+    - body
+    - 4764
+    - 4764
+  label: 二偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-15
+    span:
+    - body
+    - 4767
+    - 4767
+  label: 第一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-16
+    span:
+    - body
+    - 5365
+    - 5365
+  label: 第二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-17
+    span:
+    - body
+    - 5961
+    - 5961
+  label: 第三品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-18
+    span:
+    - body
+    - 6543
+    - 6543
+  label: 第四品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-19
+    span:
+    - body
+    - 7195
+    - 7195
+  label: 第五品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-20
+    span:
+    - body
+    - 7780
+    - 7780
+  label: 三偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-21
+    span:
+    - body
+    - 9085
+    - 9085
+  label: 四偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-22
+    span:
+    - body
+    - 10305
+    - 10305
+  label: 五偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-23
+    span:
+    - body
+    - 11772
+    - 11772
+  label: 六偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-24
+    span:
+    - body
+    - 13875
+    - 13875
+  label: 七偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-25
+    span:
+    - body
+    - 14816
+    - 14816
+  label: 八偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-26
+    span:
+    - body
+    - 15413
+    - 15413
+  label: 九偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-27
+    span:
+    - body
+    - 15692
+    - 15692
+  label: 十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-28
+    span:
+    - body
+    - 17484
+    - 17484
+  label: 十一偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-29
+    span:
+    - body
+    - 17763
+    - 17763
+  label: 十二偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-30
+    span:
+    - body
+    - 18407
+    - 18407
+  label: 十三偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-31
+    span:
+    - body
+    - 18778
+    - 18778
+  label: 一四偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-32
+    span:
+    - body
+    - 19413
+    - 19413
+  label: 一六偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-33
+    span:
+    - body
+    - 20092
+    - 20092
+  label: 二十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-34
+    span:
+    - body
+    - 25705
+    - 25705
+  label: 三十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-35
+    span:
+    - body
+    - 28109
+    - 28109
+  label: 四十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-36
+    span:
+    - body
+    - 29106
+    - 29106
+  label: 五十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-37
+    span:
+    - body
+    - 30868
+    - 30868
+  label: 六十偈集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0015_N_001-mulu-38
+    span:
+    - body
+    - 32428
+    - 32428
+  label: 大集
+  type: mulu
+  level: 1
+hash: sha256:a38755efbe64b938774545b72a1c9074e38423b047b351702f6713be4636fdda
